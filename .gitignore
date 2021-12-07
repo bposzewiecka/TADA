@@ -1,5 +1,5 @@
 #Ignore all the files in data
-data/*
+#data/*
 
 #Ignore all .egg.info files
 *.egg.info
